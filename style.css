@@ -1,0 +1,12 @@
+#descripcion { 
+    resize: none;
+}
+
+.centrado {
+    text-align: center;
+    vertical-align: center;
+}
+
+.background {
+    background: linear-gradient(to right, #013178, #3e3a9a, #743db7, #ae35cd, #eb12d9);
+}
